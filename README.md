@@ -110,15 +110,10 @@ This analysis examines 1,873 atmospheric measurements from a planetary rover to:
 
 ```
 planetary-weather-analysis/
-├── README.md                                  # This file
+├── README.md                                  
 ├── Planetary_Weather_Analysis.ipynb          # Main analysis notebook
 ├── datasets/
-│   └── planet_weather.csv                    # 1,873 atmospheric measurements
-└── visualizations/                            # Generated charts
-    ├── temperature_by_month.html
-    ├── pressure_by_month.html
-    ├── pressure_over_time.html
-    └── temperature_over_sols.html
+    └── planet_weather.csv                    # 1,873 atmospheric measurements
 ```
 
 ## 🎯 How to Use
