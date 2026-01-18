@@ -2,11 +2,6 @@
 
 A comprehensive data analysis project that demonstrates systematic detective work using atmospheric measurements to identify a mystery planet and characterize its environmental conditions.
 
-## 📍 Access This Project
-
-- **GitHub:** https://github.com/rasumeng/planetary-data-analysis
-- **Kaggle:** https://www.kaggle.com/code/robertasumeng/planetary-weather-analysis
-
 ## 🌍 Project Overview
 
 This analysis examines 1,873 atmospheric measurements from a planetary rover to:
@@ -128,17 +123,15 @@ planetary-weather-analysis/
 
 ## 🎯 How to Use
 
-### Prerequisites
-```bash
-pip install pandas plotly jupyter
-```
-
-### Running the Analysis
+### Running Locally
 1. Clone the repository
-2. Install dependencies
+2. Install dependencies: `pip install pandas plotly jupyter`
 3. Open `Planetary_Weather_Analysis.ipynb` in Jupyter
 4. Run cells sequentially to reproduce the complete analysis
 5. Interactive visualizations will display inline
+
+### View on Kaggle
+Alternatively, view the analysis directly on Kaggle without downloading: https://www.kaggle.com/code/robertasumeng/planetary-weather-analysis
 
 ### Key Takeaways
 - **Data-Driven Investigation:** Demonstrates how to identify patterns from raw measurements
