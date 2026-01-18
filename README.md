@@ -110,11 +110,11 @@ This analysis examines 1,873 atmospheric measurements from a planetary rover to:
 
 ```
 planetary-weather-analysis/
-├── README.md                                          # This file
-├── M8_Planetary Weather Data Analysis copy.ipynb     # Main analysis notebook
+├── README.md                                  # This file
+├── Planetary_Weather_Analysis.ipynb          # Main analysis notebook
 ├── datasets/
-│   └── planet_weather.csv                            # 1,873 atmospheric measurements
-└── visualizations/                                    # Generated charts
+│   └── planet_weather.csv                    # 1,873 atmospheric measurements
+└── visualizations/                            # Generated charts
     ├── temperature_by_month.html
     ├── pressure_by_month.html
     ├── pressure_over_time.html
@@ -131,7 +131,7 @@ pip install pandas plotly jupyter
 ### Running the Analysis
 1. Clone the repository
 2. Install dependencies
-3. Open `M8_Planetary Weather Data Analysis copy.ipynb` in Jupyter
+3. Open `Planetary_Weather_Analysis.ipynb` in Jupyter
 4. Run cells sequentially to reproduce the complete analysis
 5. Interactive visualizations will display inline
 
