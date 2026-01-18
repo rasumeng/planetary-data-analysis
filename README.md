@@ -112,7 +112,7 @@ This analysis examines 1,873 atmospheric measurements from a planetary rover to:
 planetary-weather-analysis/
 ├── README.md                                  
 ├── Planetary_Weather_Analysis.ipynb          # Main analysis notebook
-├── datasets/
+└── datasets/
     └── planet_weather.csv                    # 1,873 atmospheric measurements
 ```
 
