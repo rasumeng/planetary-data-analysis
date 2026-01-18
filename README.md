@@ -141,15 +141,6 @@ pip install pandas plotly jupyter
 - **Seasonal Pattern Recognition:** Understanding climate cycles through statistical grouping
 - **Cross-Validation:** Using multiple data points to confirm findings
 
-## 💡 Skills Highlighted for Employers
-
-✨ **Data Cleaning & Quality Assurance** – Strategic removal of unreliable data sources  
-✨ **Time-Series Analysis** – Temporal pattern recognition and seasonal decomposition  
-✨ **Statistical Analysis** – Aggregation, grouping, and descriptive statistics  
-✨ **Data Visualization** – Interactive, presentation-quality visualizations  
-✨ **Problem Solving** – Systematic approach to data-driven discovery  
-✨ **Communication** – Clear documentation and findings presentation  
-
 ## 🌟 Methodology Highlights
 
 **Why This Matters:** This project demonstrates the practical application of data science methodology to real-world challenges. Scientists use similar techniques to:
