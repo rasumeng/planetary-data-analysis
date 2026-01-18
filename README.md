@@ -131,7 +131,7 @@ planetary-weather-analysis/
 5. Interactive visualizations will display inline
 
 ### View on Kaggle
-Alternatively, view the analysis directly on Kaggle without downloading: https://www.kaggle.com/code/robertasumeng/planetary-weather-analysis
+[![Kaggle](https://img.shields.io/badge/Kaggle-View%20Notebook-blue?logo=kaggle)](https://www.kaggle.com/code/robertasumeng/planetary-weather-analysis)
 
 ### Key Takeaways
 - **Data-Driven Investigation:** Demonstrates how to identify patterns from raw measurements
