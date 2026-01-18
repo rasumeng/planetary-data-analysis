@@ -2,6 +2,11 @@
 
 A comprehensive data analysis project that demonstrates systematic detective work using atmospheric measurements to identify a mystery planet and characterize its environmental conditions.
 
+## 📍 Access This Project
+
+- **GitHub:** https://github.com/rasumeng/planetary-data-analysis
+- **Kaggle:** https://www.kaggle.com/code/robertasumeng/planetary-weather-analysis
+
 ## 🌍 Project Overview
 
 This analysis examines 1,873 atmospheric measurements from a planetary rover to:
